@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>文档 on Vincent&#39;s tech-blog</title>
+    <link>http://localhost:1313/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/</link>
+    <description>Recent content in 文档 on Vincent&#39;s tech-blog</description>
+    <generator>Hugo</generator>
+    <language>zh-Hans</language>
+    <copyright>&amp;copy; 2025 Vincent-文森</copyright>
+    <lastBuildDate>Sun, 16 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>安装</title>
+      <link>http://localhost:1313/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/installation/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/installation/</guid>
+      <description>学习如何从0开始使用Hugo和Congo。如果您是新用户，这是开始的最佳位置。</description>
+    </item>
+    <item>
+      <title>部署</title>
+      <link>http://localhost:1313/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/hosting-deployment/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/hosting-deployment/</guid>
+      <description>Congo 被设计为在几乎任何部署场景中都具有灵活性。了解如何将项目部署到一些常见的主机平台。</description>
+    </item>
+  </channel>
+</rss>

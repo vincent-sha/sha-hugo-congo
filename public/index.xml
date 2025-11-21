@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Congo</title>
+    <title>文森的科技小站 on Vincent&#39;s tech-blog</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Congo</description>
+    <description>Recent content in 文森的科技小站 on Vincent&#39;s tech-blog</description>
     <generator>Hugo</generator>
     <language>zh-Hans</language>
-    <copyright>&amp;copy; 2024 Congo contributors</copyright>
+    <copyright>&amp;copy; 2025 Vincent-文森</copyright>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

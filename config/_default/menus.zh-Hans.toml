@@ -11,13 +11,13 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "文档"
-  pageRef = "docs"
+  name = "技术教程"
+  pageRef = "toutorials"
   weight = 10
 
 [[main]]
-  name = "示例"
-  pageRef = "samples"
+  name = "科技资讯"
+  pageRef = "news"
   weight = 20
 
 [[main]]
@@ -27,7 +27,7 @@
 
 [[main]]
   name = "GitHub"
-  url = "https://github.com/jpanther/congo"
+  url = "https://github.com/vincent-sha"
   weight = 40
   [main.params]
     icon = "github"

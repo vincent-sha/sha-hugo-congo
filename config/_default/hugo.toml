@@ -3,7 +3,7 @@
 # https://jpanther.github.io/congo/docs/getting-started/
 
 baseURL = "https://example.org/"
-title = "My New Hugo Site"
+title = "文森的科技小站"
 defaultContentLanguage = "zh-Hans"
 
 enableRobotsTXT = true

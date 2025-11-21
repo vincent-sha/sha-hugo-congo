@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>文档 on Vincent&#39;s tech-blog</title>
+    <link>http://localhost:1313/toutorials/</link>
+    <description>Recent content in 文档 on Vincent&#39;s tech-blog</description>
+    <generator>Hugo</generator>
+    <language>zh-Hans</language>
+    <copyright>&amp;copy; 2025 Vincent-文森</copyright>
+    <atom:link href="http://localhost:1313/toutorials/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

@@ -1,10 +1,10 @@
 languageCode = "zh-Hans"
 languageName = "简体中文"
 languageDirection = "ltr"
-weight = 2
+weight = 1
 
-title = "Congo"
-copyright = "&copy; 2024 Congo contributors"
+title = "Vincent's tech-blog"
+copyright = "&copy; 2025 Vincent-文森"
 
 [params]
   dateFormat = "2006年1月2日"
@@ -13,7 +13,7 @@ copyright = "&copy; 2024 Congo contributors"
   description = "一款基于Tailwindcss的强大且轻量的Hugo主题"
 
 [params.author]
-  name = "Congo"
+  name = "Vincent"
   image = "img/author.jpg"
   headline = "非凡的主题！"
   bio = "这是一个作者简介示例，虽然这里有一张狗的库存照片，但实际上这篇文章是由人创建的。 :dog:"
