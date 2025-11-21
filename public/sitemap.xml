@@ -8,6 +8,18 @@
   
     
       <url>
+            <loc>http://localhost:1313/toutorials/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/news/</loc>
+          </url>
+    
+  
+    
+      <url>
             <loc>http://localhost:1313/</loc>
           </url>
     

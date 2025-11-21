@@ -13,13 +13,14 @@ copyright = "&copy; 2025 Vincent-文森"
   description = "一款基于Tailwindcss的强大且轻量的Hugo主题"
 
 [params.author]
-  name = "Vincent"
+  name = "Vincent-文森"
   image = "img/author.jpg"
-  headline = "非凡的主题！"
+  headline = "热爱技术与分享的初级开发者"
   bio = "这是一个作者简介示例，虽然这里有一张狗的库存照片，但实际上这篇文章是由人创建的。 :dog:"
   links = [
     { x-twitter = "https://twitter.com/" },
     { facebook = "https://facebook.com/" },
-    { linkedin = "https://linkedin.com/" },
+    { github = "https://github.com/vincent-sha" },
     { youtube = "https://youtube.com/" },
+    { telegram = "https://telegram.me/" }
   ]
