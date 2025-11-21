@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>异步并发 on Vincent&#39;s tech-blog</title>
+    <link>http://localhost:1313/tags/%E5%BC%82%E6%AD%A5%E5%B9%B6%E5%8F%91/</link>
+    <description>Recent content in 异步并发 on Vincent&#39;s tech-blog</description>
+    <generator>Hugo</generator>
+    <language>zh-Hans</language>
+    <copyright>&amp;copy; 2025 Vincent-文森</copyright>
+    <lastBuildDate>Thu, 09 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%BC%82%E6%AD%A5%E5%B9%B6%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Swift 异步与并发编程</title>
+      <link>http://localhost:1313/toutorials/swift-async-concurrency-programming/</link>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/toutorials/swift-async-concurrency-programming/</guid>
+      <description>本文详细阐述了Swift 5.5引入的async/await异步编程基础、结构化并发。通过丰富的示意图和代码示例，帮助读者深入理解Swift并发编程核心概念及其底层协作线程池调度模型，提升iOS异步编程的实战能力。</description>
+    </item>
+  </channel>
+</rss>

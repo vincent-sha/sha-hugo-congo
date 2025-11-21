@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>入门 on Vincent&#39;s tech-blog</title>
+    <link>http://localhost:1313/tags/%E5%85%A5%E9%97%A8/</link>
+    <description>Recent content in 入门 on Vincent&#39;s tech-blog</description>
+    <generator>Hugo</generator>
+    <language>zh-Hans</language>
+    <copyright>&amp;copy; 2025 Vincent-文森</copyright>
+    <lastBuildDate>Thu, 06 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%85%A5%E9%97%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo静态网站快速入门指南</title>
+      <link>http://localhost:1313/toutorials/hugo-quick-start-guide/</link>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/toutorials/hugo-quick-start-guide/</guid>
+      <description>本文详细介绍了如何快速搭建一个 Hugo 网站，包括环境准备、创建站点、添加内容、配置网站和发布站点的完整流程。适合有一定命令行基础的用户快速上手 Hugo 静态网站生成器。</description>
+    </item>
+  </channel>
+</rss>

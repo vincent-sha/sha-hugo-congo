@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>模块 on Vincent&#39;s tech-blog</title>
+    <link>http://localhost:1313/tags/%E6%A8%A1%E5%9D%97/</link>
+    <description>Recent content in 模块 on Vincent&#39;s tech-blog</description>
+    <generator>Hugo</generator>
+    <language>zh-Hans</language>
+    <copyright>&amp;copy; 2025 Vincent-文森</copyright>
+    <lastBuildDate>Thu, 06 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E6%A8%A1%E5%9D%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo 模块使用指南</title>
+      <link>http://localhost:1313/toutorials/use-hugo-modules/</link>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/toutorials/use-hugo-modules/</guid>
+      <description>本文详细介绍了 Hugo 模块的使用方法，包括模块初始化、主题模块导入、模块更新、依赖管理、本地开发支持以及模块缓存清理等内容，帮助用户高效管理 Hugo 网站的模块化资源。</description>
+    </item>
+  </channel>
+</rss>

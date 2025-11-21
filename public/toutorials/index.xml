@@ -7,6 +7,49 @@
     <generator>Hugo</generator>
     <language>zh-Hans</language>
     <copyright>&amp;copy; 2025 Vincent-文森</copyright>
+    <lastBuildDate>Thu, 06 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/toutorials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo 模块使用指南</title>
+      <link>http://localhost:1313/toutorials/use-hugo-modules/</link>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/toutorials/use-hugo-modules/</guid>
+      <description>本文详细介绍了 Hugo 模块的使用方法，包括模块初始化、主题模块导入、模块更新、依赖管理、本地开发支持以及模块缓存清理等内容，帮助用户高效管理 Hugo 网站的模块化资源。</description>
+    </item>
+    <item>
+      <title>Hugo静态网站快速入门指南</title>
+      <link>http://localhost:1313/toutorials/hugo-quick-start-guide/</link>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/toutorials/hugo-quick-start-guide/</guid>
+      <description>本文详细介绍了如何快速搭建一个 Hugo 网站，包括环境准备、创建站点、添加内容、配置网站和发布站点的完整流程。适合有一定命令行基础的用户快速上手 Hugo 静态网站生成器。</description>
+    </item>
+    <item>
+      <title>使用 GitHub Pages 托管 Hugo 网站</title>
+      <link>http://localhost:1313/toutorials/deploy-hugo-site-with-github-pages/</link>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/toutorials/deploy-hugo-site-with-github-pages/</guid>
+      <description>本文详细介绍了如何将 Hugo 静态网站托管到 GitHub Pages 上，包括不同类型的 GitHub Pages 网站介绍、前置准备条件、具体部署步骤，以及如何自定义 GitHub Actions 工作流来实现自动构建和部署，帮助用户轻松搭建个人或项目网站。</description>
+    </item>
+    <item>
+      <title>Git与GitHub技术小白入门指南</title>
+      <link>http://localhost:1313/toutorials/git-and-github-introduction-guide/</link>
+      <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/toutorials/git-and-github-introduction-guide/</guid>
+      <description>一目了然，掌握Git的基本概念及其工作流程，并阐述了GitHub作为协作平台的作用，帮助技术小白快速掌握从安装、分支管理到协作开发的完整使用方法。</description>
+    </item>
+    <item>
+      <title>Hugo静态网站目录结构详解</title>
+      <link>http://localhost:1313/toutorials/hugo-directory-structure/</link>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/toutorials/hugo-directory-structure/</guid>
+      <description>本文详细介绍了Hugo静态网站生成器的目录结构，包括新建站点时生成的项目骨架、各个子目录的作用、Union文件系统的应用以及主题骨架结构，帮助用户更好地理解和管理Hugo项目文件。</description>
+    </item>
+    <item>
+      <title>Swift 异步与并发编程</title>
+      <link>http://localhost:1313/toutorials/swift-async-concurrency-programming/</link>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/toutorials/swift-async-concurrency-programming/</guid>
+      <description>本文详细阐述了Swift 5.5引入的async/await异步编程基础、结构化并发。通过丰富的示意图和代码示例，帮助读者深入理解Swift并发编程核心概念及其底层协作线程池调度模型，提升iOS异步编程的实战能力。</description>
+    </item>
   </channel>
 </rss>

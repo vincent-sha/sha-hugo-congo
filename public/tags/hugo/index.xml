@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Vincent&#39;s tech-blog</title>
+    <link>http://localhost:1313/tags/hugo/</link>
+    <description>Recent content in Hugo on Vincent&#39;s tech-blog</description>
+    <generator>Hugo</generator>
+    <language>zh-Hans</language>
+    <copyright>&amp;copy; 2025 Vincent-文森</copyright>
+    <lastBuildDate>Thu, 06 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo 模块使用指南</title>
+      <link>http://localhost:1313/toutorials/use-hugo-modules/</link>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/toutorials/use-hugo-modules/</guid>
+      <description>本文详细介绍了 Hugo 模块的使用方法，包括模块初始化、主题模块导入、模块更新、依赖管理、本地开发支持以及模块缓存清理等内容，帮助用户高效管理 Hugo 网站的模块化资源。</description>
+    </item>
+    <item>
+      <title>Hugo静态网站快速入门指南</title>
+      <link>http://localhost:1313/toutorials/hugo-quick-start-guide/</link>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/toutorials/hugo-quick-start-guide/</guid>
+      <description>本文详细介绍了如何快速搭建一个 Hugo 网站，包括环境准备、创建站点、添加内容、配置网站和发布站点的完整流程。适合有一定命令行基础的用户快速上手 Hugo 静态网站生成器。</description>
+    </item>
+    <item>
+      <title>使用 GitHub Pages 托管 Hugo 网站</title>
+      <link>http://localhost:1313/toutorials/deploy-hugo-site-with-github-pages/</link>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/toutorials/deploy-hugo-site-with-github-pages/</guid>
+      <description>本文详细介绍了如何将 Hugo 静态网站托管到 GitHub Pages 上，包括不同类型的 GitHub Pages 网站介绍、前置准备条件、具体部署步骤，以及如何自定义 GitHub Actions 工作流来实现自动构建和部署，帮助用户轻松搭建个人或项目网站。</description>
+    </item>
+    <item>
+      <title>Hugo静态网站目录结构详解</title>
+      <link>http://localhost:1313/toutorials/hugo-directory-structure/</link>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/toutorials/hugo-directory-structure/</guid>
+      <description>本文详细介绍了Hugo静态网站生成器的目录结构，包括新建站点时生成的项目骨架、各个子目录的作用、Union文件系统的应用以及主题骨架结构，帮助用户更好地理解和管理Hugo项目文件。</description>
+    </item>
+  </channel>
+</rss>
