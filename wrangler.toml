@@ -2,7 +2,7 @@ name = "sha-hugo-congo"
 compatibility_date = "2025-07-31"
 
 [build]
-command = "chmod a+x build.sh && ./build.sh"
+command = "hugo --gc --minify"
 
 [assets]
 directory = "./public"
