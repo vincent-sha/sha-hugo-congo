@@ -1,0 +1,25 @@
+{{- $c := .Site.Params.comments -}}
+{{- if $c -}}
+  {{- $provider := lower $c.provider -}}
+  {{- if eq $provider "giscus" -}}
+<div id="comments">
+  <div class="giscus-frame">
+    <script src="https://giscus.app/client.js"
+            data-repo="{{ $c.repo }}"
+            data-repo-id="{{ $c.repo_id }}"
+            data-category="{{ $c.category }}"
+            data-category-id="{{ $c.category_id }}"
+            data-mapping="{{ default "pathname" $c.mapping }}"
+            data-strict="0"
+            data-reactions-enabled="{{ if $c.reactions_enabled }}1{{ else }}0{{ end }}"
+            data-emit-metadata="{{ default "0" $c.metadata }}"
+            data-input-position="{{ default "bottom" $c.input_position }}"
+            data-theme="{{ default "preferred_color_scheme" $c.theme }}"
+            data-lang="{{ default "en" $c.lang }}"
+            crossorigin="anonymous"
+            async>
+    </script>
+  </div>
+</div>
+  {{- end -}}
+{{- end -}}

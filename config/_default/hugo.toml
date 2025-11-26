@@ -7,7 +7,7 @@ title = "文森的科技小站"
 defaultContentLanguage = "zh-Hans"
 
 enableRobotsTXT = true
-summaryLength = 0
+summaryLength = 20
 
 [pagination]
   pagerSize = 10

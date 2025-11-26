@@ -43,7 +43,8 @@ fingerprintAlgorithm = "sha256"
   showDate = true
   showDateUpdated = false
   showAuthor = true
-  showBreadcrumbs = false
+  showBreadcrumbs = true
+  showCategories = true
   showDraftLabel = true
   showEdit = false
   # editURL = "https://github.com/username/repo/"
@@ -55,16 +56,29 @@ fingerprintAlgorithm = "sha256"
   showTableOfContents = false
   showTaxonomies = true
   showWordCount = false
-  showComments = false
+  showComments = true
   sharingLinks = ["facebook", "x-twitter", "reddit", "linkedin", "email", "threads", "telegram", "line", "weibo", "xing", "bluesky"]
 
 [list]
   showBreadcrumbs = true
   showSummary = false
   showTableOfContents = true
-  showTaxonomies = false
+  showTaxonomies = true
+  showDate = true
   groupByYear = true
   paginationWidth = 1
+
+[comments]
+  provider = "giscus"
+  repo = "vincent-sha/sha-hugo-congo"
+  repo_id = "R_kgDOQZ7S6Q"
+  category = "Announcements"
+  category_id = "DIC_kwDOQZ7S6c4CzCwM"
+  mapping = "pathname"
+  reactions_enabled = true
+  metadata = "0"
+  theme = "preferred_color_scheme"
+  lang = "zh-CN"
 
 [sitemap]
   excludedKinds = ["taxonomy", "term"]
