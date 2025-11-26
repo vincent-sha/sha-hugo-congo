@@ -1,5 +1,6 @@
 name = "sha-hugo-congo"
 compatibility_date = "2025-07-31"
+workers_dev = true
 
 [build]
 command = "hugo --gc --minify"
