@@ -5,7 +5,7 @@ description: "专注于网站建设、AI运用和iOS开发的技术教程，适�
 cascade:
   showDate: true
   showAuthor: false
-  showSummary: true
+  showSummary: false
   invertPagination: true
 ---
 

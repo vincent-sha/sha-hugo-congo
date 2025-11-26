@@ -21,24 +21,24 @@
   weight = 20
 
 [[main]]
-  name = "用户"
-  pageRef = "users"
+  name = "标签"
+  pageRef = "tags"
   weight = 30
+
+[[main]]
+  identifier = "搜索"
+  weight = 40
+  [main.params]
+    action = "search"
 
 [[main]]
   name = "GitHub"
   url = "https://github.com/vincent-sha"
-  weight = 40
+  weight = 50
   [main.params]
     icon = "github"
     showName = false
     target = "_blank"
-
-[[main]]
-  identifier = "搜索"
-  weight = 99
-  [main.params]
-    action = "search"
 
 [[main]]
   identifier = "语言"
